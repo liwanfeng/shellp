@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <redis>
+        <host>redis-11532.c81.us-east-1-2.ec2.cloud.redislabs.com:11532</host>
+        <password>VOLYnAe980GRMBc7eLjGtKfPmh8PT8MR</password>
+        <max_idle>1</max_idle>
+        <max_active>5</max_active>
+    </redis>
+    <database>
+        <url>jdbc:mysql://www.db4free.net/liwanfeng</url>
+        <user>liwanfeng</user>
+        <password>282564251</password>
+    </database>
+</config>
