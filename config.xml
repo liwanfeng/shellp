@@ -6,9 +6,4 @@
         <max_idle>1</max_idle>
         <max_active>5</max_active>
     </redis>
-    <database>
-        <url>jdbc:mysql://www.db4free.net/liwanfeng</url>
-        <user>liwanfeng</user>
-        <password>282564251</password>
-    </database>
 </config>
